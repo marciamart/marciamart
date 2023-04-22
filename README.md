@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/marciamart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciamart&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=ffffff"/>
-  <img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciamart&layout=compact&langs_count=7&theme=dark&bg_color=0D1117&text_color=ffffff"/>
+  <img height="500em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciamart&layout=compact&langs_count=7&theme=dark&bg_color=0D1117&text_color=ffffff"/>
 </div>
     
 <div>
