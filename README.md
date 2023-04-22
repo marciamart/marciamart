@@ -8,7 +8,7 @@ Aqui exporei alguns trabalhos, projetos e tudo que for de benefício pro meu des
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg">
 
 </div>
-
+  
 <div>
   <a href="https://github.com/marciamart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciamart&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=ffffff"/>
