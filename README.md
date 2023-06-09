@@ -16,6 +16,7 @@ Aqui exporei alguns trabalhos, projetos e tudo que for de benefício pro meu des
   
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 
 </div>
   
