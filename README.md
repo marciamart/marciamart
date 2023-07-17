@@ -11,6 +11,10 @@ Aqui exporei alguns trabalhos, projetos e tudo que for de benefício pro meu des
 </div>   
 
 <br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marciamart&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciamart&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciamart&theme=github_dark)
   
 <div style="display: inline_block">
   
