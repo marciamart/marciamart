@@ -1,5 +1,5 @@
 ## Oii :D
-#### Meu chamo _Márcia Martins_, sou graduanda em Engenharia de Software pela Universidade Federal do Ceará.  
+#### Me chamo _Márcia Martins_, sou graduanda em Engenharia de Software pela Universidade Federal do Ceará.  
 Aqui exporei alguns trabalhos, projetos e tudo que for de benefício para o meu desenvolvimento na nossa área :)
 
 <br/>
