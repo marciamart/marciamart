@@ -7,4 +7,4 @@ Aqui exporei alguns trabalhos, projetos e tudo que for de benefício para o meu 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marciamart&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciamart&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciamart&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marciamart&theme=github_dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marciamart&layout=simple&theme=github_dark&count_private=true)
